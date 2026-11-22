@@ -1,121 +1,109 @@
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR & PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<div align="center">
 
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME MY GITHUB PROFILE &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
+<img src="https://i.ibb.co/Lz6nKt6Z/logo.png" width="150" alt="Mr. Ex logo" />
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+# `MR. EX` — Rakibul Islam Noyon
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=ASSALAMU+ALAIKUM+WA+RAHMATULLAH;HELLO+WORLD%2C+I'M+MR.+EX+IS+HERE;THIS+IS+MY+GITHUB+PROFILE+🤗;PLEASE+FOLLOW+MY+GITHUB+🙏;THANKS+MY+All+FAMILY+MEMBERS+🤙+🥰)](https://git.io/typing-svg)
+### Developer · Cybersecurity Enthusiast · Tech Creator 🇧🇩
 
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A5&center=true&vCenter=true&width=720&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Web+Development+%7C+Python+%7C+Cybersecurity;Build+with+purpose.+Learn+every+day.;Explore.+Create.+Secure." alt="Animated typing introduction" />
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-
+<p>
+  <a href="https://github.com/EX-OFFICIAL"><img src="https://img.shields.io/badge/GitHub-EX--OFFICIAL-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://t.me/itsmenoyon"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:itzmenoyon@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/EX.OFFICI4L"><img src="https://img.shields.io/badge/Facebook-Mr.Ex-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-<p align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7A5,100:071A2B&height=3&section=header" width="100%" />
 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+</div>
 
- <img src="https://profile-counter.glitch.me/Mr3x1/count.svg" />
+## `whoami` — About Me
 
-</p>
+```bash
+Name       : Rakibul Islam Noyon
+Codename   : Mr. Ex
+Location   : Bangladesh
+Role       : Developer & Cybersecurity Enthusiast
+Focus      : Web Development, Python, Automation, Security
+```
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+I'm a technology enthusiast who enjoys building useful software, exploring how systems work, and learning about digital security. I believe technical skills should be used responsibly to solve problems and help protect people online.
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+- 🔭 Exploring web technologies, Python, automation, and cybersecurity.
+- 🛠️ Building practical tools and experiments.
+- 🛡️ Interested in ethical security research and responsible disclosure.
+- 🎯 Goal: keep learning and create technology with a positive impact.
 
-<a href="https://github.com/Mr3x1"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Mr3x1&theme=monokai"></a>
+## `./tech-stack.sh` — Technologies & Tools
 
+<div align="center">
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+### Languages & Web
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php" alt="HTML, CSS, JavaScript, Python and PHP" />
 
-- 🔰 𝐍𝐀𝐌𝐄:- MR. EX
+### Platforms & Tools
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,mysql,vscode" alt="Linux, Kali Linux, Git, GitHub, MySQL and VS Code" />
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+</div>
 
-- 🔰 𝐀𝐆𝐄:- 20+
+## `./projects.sh` — Focus Areas
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+| Area | What I enjoy working on |
+|---|---|
+| 🌐 Web Development | Responsive websites and browser-based tools |
+| 🐍 Python | Scripts, automation, and utility projects |
+| 🔐 Cybersecurity | Ethical security learning, defensive testing, and awareness |
+| ⚙️ Open Source | Exploring repositories and improving useful projects |
 
-- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- STILL STUDY
+## `./community.sh` — Community
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<div align="center">
 
-- 🔰 𝐋𝐎𝐕𝐄𝐑:- PYTHON 
+### Founder of [DARK FORCE - 71](https://www.facebook.com/d4rkforceofficial)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+A non-profit community focused on helping people facing online harassment, blackmail, and other digital abuse, and promoting a safer online environment.
 
-- 🔰 𝐈𝐍𝐒F𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- MY OWN RESPONSIBLE 
+<a href="https://www.facebook.com/d4rkforceofficial"><img src="https://img.shields.io/badge/DARK%20FORCE--71-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="DARK FORCE - 71 Facebook" /></a>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+</div>
 
-- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- ISLAM
+## `git stats` — GitHub Statistics
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<div align="center">
 
-- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Mr. Ex](https://www.facebook.com/EX.OFFIC1AL)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EX-OFFICIAL&show_icons=true&hide_border=true&bg_color=071A2B&title_color=00F7A5&icon_color=00F7A5&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EX-OFFICIAL&layout=compact&hide_border=true&bg_color=071A2B&title_color=00F7A5&text_color=E6EDF3" alt="Most used languages" />
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img src="https://streak-stats.demolab.com?user=EX-OFFICIAL&hide_border=true&background=071A2B&ring=00F7A5&fire=00F7A5&currStreakLabel=00F7A5&sideLabels=E6EDF3&dates=9AA4B2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
-- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [Mr. Ex](https://www.facebook.com/EX.OFFICI4L)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EX-OFFICIAL&bg_color=071A2B&color=E6EDF3&line=00F7A5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+</div>
 
-- 🔰 𝐓𝐄𝐀𝐌:- [DARK FORCE - 71](https://facebook.com/groups/darkforceofficials/)
+## `connect --with-me`
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<div align="center">
 
-- 🔰 𝐓𝐄𝐀𝐌 𝐏𝐀𝐆𝐄:- [Dark Force - 71](https://www.facebook.com/d4rkforceofficial)
+| Platform | Link |
+|---|---|
+| GitHub | [@EX-OFFICIAL](https://github.com/EX-OFFICIAL) |
+| Telegram | [@itsmenoyon](https://t.me/itsmenoyon) |
+| Facebook | [Mr. Ex](https://www.facebook.com/EX.OFFICI4L) |
+| Facebook Page | [Mr. Ex Official](https://www.facebook.com/EX.OFFICI4L) |
+| Email | [itzmenoyon@gmail.com](mailto:itzmenoyon@gmail.com) |
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+</div>
 
-- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁:- [Mr3x1](https://github.com/Mr3x1)
+<div align="center">
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+## 👀 Profile Visitors
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
+<img src="https://komarev.com/ghpvc/?username=EX-OFFICIAL&label=PROFILE%20VIEWS&color=00F7A5&style=for-the-badge" alt="Profile views" />
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/EX.OFFICI4L)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/EX.OFFIC1AL)
-[![Github](https://img.shields.io/badge/Github-Mr3x1green?style=for-the-badge&logo=github)](https://github.com/Mr3x1)
+### *“Learn continuously. Build responsibly. Make an impact.”*
 
-### ⚙️ &nbsp; Coder And Programmer.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,100:00F7A5&height=110&section=footer" width="100%" alt="Footer banner" />
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
-
-<table border="1">
-  <tr>
-    <td valign="top"><a href="https://github.com/Mr3x1/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Mr3x1&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. Ex GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/Mr3x1/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr3x1&layout=compact&langs_count=10" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Mr3x1&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="EX's GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
-<br>
-
-## PROFILE VISITORS
-
-<img src="https://profile-counter.glitch.me/Mr3x1/count.svg" />
-
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Mr3x1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Mr3x1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</a>
-<a href="https://github.com/Mr3x1/RS"><img title="RS" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr3x1&repo=RS&theme=vision-friendly-dark">
-
+</div>
